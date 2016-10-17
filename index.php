@@ -5,9 +5,11 @@
 .center {
     margin: auto;
     width: 20%;
-    border: 5px solid #73AD21;
+    border: 5px solid #7a7a7a;
     padding: 10px;
+    
 }
+h1 {color: red;}
 </style>
 </head>
 <body>

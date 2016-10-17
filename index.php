@@ -1,6 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.center {
+    margin: auto;
+    width: 20%;
+    border: 5px solid #73AD21;
+    padding: 10px;
+}
+</style>
+</head>
+<body>
+
+
+<div class="center"><form>
 <h1> REGISTRATION </h1> <br>
 
-<form>
+
 
   Username: <br>
   <input type='text' name='username'><br>
@@ -13,10 +29,10 @@
   
   <button type='button'> Register</button><br>
   <br>
-  <p><i>If you are already a member, click <b><button type='button'> here</button></b>.</i></p>
+  <p><i>If you are already a member, click <b><button type='button'><a href= "https://web.njit.edu/~rjf26/login.php"> here </a></button></b>.</i></p>
   
 
 
 
-</form>
+</div></form>
 
